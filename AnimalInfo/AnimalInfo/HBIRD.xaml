@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimalInfo.HBIRD">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Harpy Eagle" FontSize="25" FontAttributes="Bold" TextColor="White" Background="black" TextType="Text" HorizontalOptions="Center" VerticalOptions="Start" Padding="10, 20, 10, 20"/>
+            <Label Text="POPULATION :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 285, 10" ></Label>
+            <Label Text="Unknown" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
+            <Label Text="SCIENTIFIC NAME :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 255, 10"></Label>
+            <Label Text="Harpia harpyja" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
+            <Label Text="HEIGHT :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 325, 10"></Label>
+            <Label Text="Unknown" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
+            <Label Text="WEIGHT :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 323, 10"></Label>
+            <Label Text="5kg - 9kg (11lb - 20lbs)" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
+            <Label Text="LENGHT :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 322, 10"></Label>
+            <Label Text="89cm - 102cm (35in - 40in)" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
+            <Label Text="HABITATS :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 308, 10"></Label>
+            <Label Text="Lowland rainforests" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
+            <Label Text="ORIGIN :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 328, 10"></Label>
+            <Label Text="Central-America,South-America" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
+            <Button Text="Go to home." FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="End" BackgroundColor="SkyBlue" WidthRequest="200" Clicked="Button_Clicked" Padding="10, 20, 10, 20" ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

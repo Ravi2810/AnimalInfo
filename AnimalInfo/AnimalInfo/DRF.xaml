@@ -4,9 +4,22 @@
              x:Class="AnimalInfo.DRF">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Desert Rain Frog" FontSize="25" FontAttributes="Bold" TextColor="White" Background="black" TextType="Text" HorizontalOptions="Center" VerticalOptions="Start" Padding="10, 20, 10, 20"/>
+            <Label Text="POPULATION :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 285, 10" ></Label>
+            <Label Text="Unknown" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
+            <Label Text="SCIENTIFIC NAME :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 255, 10"></Label>
+            <Label Text="Breviceps macrops" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
+            <Label Text="HEIGHT :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 325, 10"></Label>
+            <Label Text="Unknown" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
+            <Label Text="WEIGHT :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 323, 10"></Label>
+            <Label Text="Up to 0.4 oz" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
+            <Label Text="LENGHT :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 322, 10"></Label>
+            <Label Text="2–2.5 inches" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
+            <Label Text="HABITATS :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 308, 10"></Label>
+            <Label Text="Sand dunes" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
+            <Label Text="ORIGIN :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 328, 10"></Label>
+            <Label Text="Africa" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
+            <Button Text="Go to home." FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="End" BackgroundColor="SkyBlue" WidthRequest="200" Clicked="Button_Clicked" Padding="10, 20, 10, 20" ></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

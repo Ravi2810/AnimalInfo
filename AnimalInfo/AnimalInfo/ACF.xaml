@@ -4,7 +4,7 @@
              x:Class="AnimalInfo.ACF">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="African Bullfrog" FontSize="25" FontAttributes="Bold" TextColor="White" Background="black" TextType="Text" HorizontalOptions="Center" VerticalOptions="Start" Padding="10, 20, 10, 20"/>
+            <Label Text="African Clawed Frog" FontSize="25" FontAttributes="Bold" TextColor="White" Background="black" TextType="Text" HorizontalOptions="Center" VerticalOptions="Start" Padding="10, 20, 10, 20"/>
             <Label Text="POPULATION :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 285, 10" ></Label>
             <Label Text="Abundant" FontAttributes="Italic" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="End" ></Label>
             <Label Text="SCIENTIFIC NAME :-" BackgroundColor="DarkOrange" FontAttributes="Bold" TextColor="Black" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" Padding="0, 10, 255, 10"></Label>

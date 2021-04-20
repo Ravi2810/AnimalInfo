@@ -4,9 +4,19 @@
              x:Class="AnimalInfo.Page5">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Mammals" FontSize="20" FontAttributes="Bold" TextColor="Black" TextType="Text" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Button Text="Aardvark" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Coral" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Baboon" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Coral" WidthRequest="400" Clicked="Button_Clicked_1" ></Button>
+            <Button Text="Cairn Terrier" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Coral" WidthRequest="400" Clicked="Button_Clicked_2" ></Button>
+            <Button Text="Dachsador" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Coral" WidthRequest="400" Clicked="Button_Clicked_3" ></Button>
+            <Button Text="Eastern Gorilla" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Coral" WidthRequest="400" Clicked="Button_Clicked_4" ></Button>
+            <Button Text="False Killer Whale" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Coral" WidthRequest="400" Clicked="Button_Clicked_5" ></Button>
+            <Button Text="Geoffroys Tamarin" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Coral" WidthRequest="400" Clicked="Button_Clicked_6" ></Button>
+            <Button Text="Hamster" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Coral" WidthRequest="400" Clicked="Button_Clicked_7" ></Button>
+            <Button Text="Ibis" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Coral" WidthRequest="400" Clicked="Button_Clicked_8" ></Button>
+            <Button Text="Jack Russell" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Coral" WidthRequest="400" Clicked="Button_Clicked_9" ></Button>
+            <Button Text="Kangaroo" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Coral" WidthRequest="400" Clicked="Button_Clicked_10" ></Button>
+            <Button Text="Labmaraner" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Coral" WidthRequest="400" Clicked="Button_Clicked_11" ></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
