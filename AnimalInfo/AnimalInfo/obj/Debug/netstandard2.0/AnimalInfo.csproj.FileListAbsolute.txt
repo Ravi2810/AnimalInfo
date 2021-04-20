@@ -96,3 +96,11 @@ C:\Users\puroh\OneDrive\Documents\App\AnimalInfo\AnimalInfo\AnimalInfo\obj\Debug
 C:\Users\puroh\OneDrive\Documents\App\AnimalInfo\AnimalInfo\AnimalInfo\obj\Debug\netstandard2.0\Mrr.xaml.g.cs
 C:\Users\puroh\OneDrive\Documents\App\AnimalInfo\AnimalInfo\AnimalInfo\obj\Debug\netstandard2.0\Rrr.xaml.g.cs
 C:\Users\puroh\OneDrive\Documents\App\AnimalInfo\AnimalInfo\AnimalInfo\obj\Debug\netstandard2.0\Srr.xaml.g.cs
+C:\Users\puroh\OneDrive\Documents\App\AnimalInfo\AnimalInfo\AnimalInfo\obj\Debug\netstandard2.0\I1.xaml.g.cs
+C:\Users\puroh\OneDrive\Documents\App\AnimalInfo\AnimalInfo\AnimalInfo\obj\Debug\netstandard2.0\I2.xaml.g.cs
+C:\Users\puroh\OneDrive\Documents\App\AnimalInfo\AnimalInfo\AnimalInfo\obj\Debug\netstandard2.0\I3.xaml.g.cs
+C:\Users\puroh\OneDrive\Documents\App\AnimalInfo\AnimalInfo\AnimalInfo\obj\Debug\netstandard2.0\I4.xaml.g.cs
+C:\Users\puroh\OneDrive\Documents\App\AnimalInfo\AnimalInfo\AnimalInfo\obj\Debug\netstandard2.0\I5.xaml.g.cs
+C:\Users\puroh\OneDrive\Documents\App\AnimalInfo\AnimalInfo\AnimalInfo\obj\Debug\netstandard2.0\I6.xaml.g.cs
+C:\Users\puroh\OneDrive\Documents\App\AnimalInfo\AnimalInfo\AnimalInfo\obj\Debug\netstandard2.0\I7.xaml.g.cs
+C:\Users\puroh\OneDrive\Documents\App\AnimalInfo\AnimalInfo\AnimalInfo\obj\Debug\netstandard2.0\I8.xaml.g.cs
